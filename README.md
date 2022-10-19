@@ -1,4 +1,4 @@
-# BuyKart
+# eKart
 Assessment
 
 1. download project zip file
