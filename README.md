@@ -1,9 +1,7 @@
-# eKart
-Assessment
+# eKart Assessment
 
-1. download project zip file
-2. extract
-3. import project in the STS/Eclipse 
-4. create the database and make the changes in  application.properties file
-5. change db password in  application.properties file
-8. run the project
+1. Clone the project
+2. Import project in the STS/Eclipse 
+3. Create the database and make the changes in  application.properties file
+4. Change db password in  application.properties file
+5. Run the project
